@@ -14,9 +14,9 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joyaljosep/eva 2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joyaljosep/eva2)
 
-[![Run on Repl.it](https://repl.it/badge/github/joyaljosep/eva bot)](https://repl.it/github/joyaljosep/eva 2)
+[![Run on Repl.it](https://repl.it/badge/github/joyaljosep/eva2)](https://repl.it/github/joyaljosep/eva2)
 
 
 ### Install ⬇️
